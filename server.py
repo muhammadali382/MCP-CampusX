@@ -2,7 +2,7 @@ import random
 from fastmcp import FastMCP
 
 # Create a FastMCP server instance
-mcp = FastMCP(name="Demo Server")
+mcp = FastMCP(name="Test Remote Server")
 
 
 @mcp.tool
